@@ -1,12 +1,13 @@
 ## Tomasz Marek
+
 ## Expierience
 
-    **Java**\
+    ++Java++\
     
     2018-2022
   
   ## Scholl
   
-  **Happer College**\
+  ++Happer College++\
   
   2018
