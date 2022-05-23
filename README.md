@@ -1,7 +1,7 @@
 ## Tomasz Marek
-**Expierience**
-    Java 2018-2022
+**Expierience**/
+    Java/ 2018-2022
   
-  **Scholl**
-  Happer College
+  **Scholl**/
+  Happer College/
   2018
